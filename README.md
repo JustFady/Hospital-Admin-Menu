@@ -11,7 +11,7 @@ This is a simple **Java-based Hospital Administration System** that allows manag
 - **Simple Console Menu**: Easy-to-use terminal-based interface.
 
 ## How to Run
-### **Compile and Run (No Maven Needed)**
+### **Compile and Run **
 1. **Compile all Java files:**
    ```sh
    javac src/*.java
